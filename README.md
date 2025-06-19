@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anandhu V Kalesh
 
-I'm a passionate **Android Developer** with strong experience in building scalable applications, modular SDKs, and modern UI with Jetpack Compose. I specialize in system-level integration, secure payment flows, and optimizing performance across various Android components.
+I'm a passionate **Android Developer** with strong experience in building scalable applications, modular SDKs, and modern UI with Jetpack Compose. I specialize in system-level integration, secure payment flows, and optimizing performance across various Android components.I'm a passionate Android Developer with strong experience in building scalable applications, modular SDKs, and modern UI with Jetpack Compose. I specialize in system-level integration, secure payment flows, and optimizing performance across various Android components.
 
 ---
 
@@ -34,14 +34,14 @@ I'm a passionate **Android Developer** with strong experience in building scalab
 
 ## 🛠️ Recent Work Highlights
 
-- 🎵 [**Dark Music Player**](https://github.com/anandhukalesh/Dark-Music-Player) – Offline player with sleep timer & playlist support  
-- 📥 [**Status Saver App**](https://github.com/anandhukalesh/Status-Saver-App) – WhatsApp status downloader with a simple and intuitive UI  
+- 🎵 [**Dark Music Player**](https://github.com/AnandhuKaleshAk/Music-Player) – Offline player with sleep timer & playlist support  
+
 
 ---
 
 ## 🚧 Currently Working On
 
-🧩 [**Compose Multiplatform Sample App**](https://github.com/anandhukalesh/compose-multiplatform-sample)  
+🧩 [**Compose Multiplatform Sample App**](https://github.com/AnandhuKaleshAk/Kmm-sample-app)  
 Exploring Jetpack Compose Multiplatform to build a shared UI codebase across Android, Desktop, and iOS. Focused on clean architecture, reusable components, and multiplatform libraries.
 
 🧪 Implementing robust testing in the app using:
