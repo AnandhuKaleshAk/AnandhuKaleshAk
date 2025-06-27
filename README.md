@@ -23,7 +23,7 @@ I'm a passionate **Android Developer** with strong experience in building scalab
 - Secure SDKs with JNI
 
 ### 🔐 **Dependency Injection**
-- Dagger, Kodein
+- Dagger, Koin
 
 ### ☁️ **Cloud & Tools**
 - Amazon S3 Bucket Integration
